@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Eu ainda não trabalho na área de programação, mas estou me apaixonando por front-end
-- 🌱 Estou estudando Javascript 
+- 🔭 Eu ainda não trabalho na área de programação, mas estou me apaixonando por Front-End
+- 🌱 Estudando Javascript e lógica de programação
 - 😍 Tenho vontade de aprender tudo sobre JS, HTML e CSS
 -->
 
