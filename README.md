@@ -4,7 +4,7 @@
 
 - 🔭 Eu ainda não trabalho na área de programação, mas estou me apaixonando por Front-End
 - 🌱 Estudando Javascript e lógica de programação
-- 😍 Tenho vontade de aprender tudo sobre JS, HTML e CSS
+- 😍 Tenho noções básicas de JS, HTML e CSS
 -->
 
 <div>
