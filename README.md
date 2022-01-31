@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Eu ainda não trabalho na área de programação, mas estou me apaixonando por Front-End
-- 🌱 Estudando Javascript e lógica de programação
-- 😍 Tenho noções básicas de JS, HTML e CSS
+🔭 I still don't work in the programming area, but I'm falling in love with Front-End
+🌱 Studying Javascript and programming logic
+😍 I have basic knowledge of JS, HTML and CSS -->
 -->
 
 <div>
