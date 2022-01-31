@@ -4,7 +4,7 @@
 
 - 🔭 I still don't work in the programming area, but I'm falling in love with Front-End
 - 🌱 Studying Javascript and programming logic
-- 😍 I have basic knowledge of JS, HTML and CSS -->
+- 😍 I have basic knowledge of JS and HTML -->
 -->
 
 <div>
