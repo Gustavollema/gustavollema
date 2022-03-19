@@ -1,4 +1,6 @@
-### Hi! I'm Gustavo.
+### Olá! Sou o Gustavo!
+<br>
+### Sou Designer Gráfico há 8 anos e Desenvolvedor Web em treinamento!
 
 
 
